@@ -5,14 +5,14 @@ LEARNING PYTHON
 ### DEFINATION 
 
 
->Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
 ---
 
 ### INSTALLATION
 
->###### [python](https://www.python.org/downloads/)
+###### [python](https://www.python.org/downloads/)
 
->###### [pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+###### [pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 ---
 
 
@@ -104,10 +104,10 @@ LEARNING PYTHON
    
     4.Python Set Operations
    
-    1.Set Union
+      1.Set Union
     
-    2.Set Intersection
+      2.Set Intersection
     
-    3.Set Difference
+      3.Set Difference
     
-    4.Set Symmetric Difference
+      4.Set Symmetric Difference
