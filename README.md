@@ -4,8 +4,7 @@ LEARNING PYTHON
 ---
 ### DEFINATION 
 
-
-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
+  ###### Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
 ---
 
 ### INSTALLATION
@@ -35,7 +34,8 @@ Python is an interpreted, object-oriented, high-level programming language with 
     1.Numbers and Numeric Representation
     2.power and logarithmic functions
     3.trigonometric and angular conversion functions
-  
+   
+ --- 
   
   
 ### DATA TYPES
