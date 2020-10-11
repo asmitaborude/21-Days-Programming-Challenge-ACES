@@ -13,21 +13,21 @@ LEARNING PYTHON
 
 ### PYTHON INTERPRETERS
 
-> [GeeksforGeeks IDE](ide.geeksforgeeks.org)
+> [GeeksforGeeks IDE](https://ide.geeksforgeeks.org/Fou4Yl6uPe)
 
-> [Python Fiddle](pythonfiddle.com)
+> [Python Fiddle](http://pythonfiddle.com/)
 
-> [Python Anywhere](www.pythonanywhere.com)
+> [Python Anywhere](https://www.pythonanywhere.com/)
 
-> [Online gdp compiler](onlinegdb.com)
+> [Online gdp compiler](https://www.onlinegdb.com/online_python_compiler)
 
 For expensive computations for deep learning libraries like TensorFlow, following IDEs can be used
 
-> [kaggle](kaggle.com)
+> [kaggle](https://www.kaggle.com/)
 
-> [JuPyter/IPython Notebook](jupyter.org)
+> [JuPyter/IPython Notebook](https://jupyter.org/)
 
-> [Google Colab](colab.research.google.com)
+> [Google Colab](https://colab.research.google.com/)
 
 
 ---
