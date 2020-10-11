@@ -9,9 +9,27 @@ LEARNING PYTHON
 
 ### INSTALLATION
 
-###### [python](https://www.python.org/downloads/)
+>  [windows](https://www.python.org/downloads/windows/)
 
-###### [pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+### PYTHON INTERPRETERS
+
+> [GeeksforGeeks IDE](ide.geeksforgeeks.org)
+
+> [Python Fiddle](pythonfiddle.com)
+
+> [Python Anywhere](www.pythonanywhere.com)
+
+> [Online gdp compiler](onlinegdb.com)
+
+For expensive computations for deep learning libraries like TensorFlow, following IDEs can be used
+
+> [kaggle](kaggle.com)
+
+> [JuPyter/IPython Notebook](jupyter.org)
+
+> [Google Colab](colab.research.google.com)
+
+
 ---
 
 
@@ -111,3 +129,28 @@ LEARNING PYTHON
       3.Set Difference
     
       4.Set Symmetric Difference
+      
+      
+ #### * DAY 7
+  ###### Python Dictionary
+ 
+    1.Creating Python Dictionary
+  
+    2.Accessing Elements from Dictionary
+  
+    3.Changing and Adding Dictionary elements
+  
+    4.Removing elements from a dictionary
+  
+    5.Python Dictionary Comprehension
+  
+    6.Other Dictionary Operations
+  
+      1.Dictionary Membership Test
+    
+      2.Iterating through a Dictionary
+    
+    7.Dictionary Built-in Functions
+
+  
+
