@@ -50,7 +50,9 @@ For expensive computations for deep learning libraries like TensorFlow, followin
 
   ###### Python Math Module
     1.Numbers and Numeric Representation
+    
     2.power and logarithmic functions
+    
     3.trigonometric and angular conversion functions
    
  --- 
