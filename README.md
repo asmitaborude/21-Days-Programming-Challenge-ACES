@@ -151,6 +151,28 @@ For expensive computations for deep learning libraries like TensorFlow, followin
       2.Iterating through a Dictionary
     
     7.Dictionary Built-in Functions
+    
+---
+
+### FLOW CONTROL
+    
+ #### * DAY 8
+ 
+  ###### Python Flow Control
+  
+    1.if...else
+    
+    2.if...elif..else
+    
+    3.for
+    
+    4.while
+    
+    5.break
+    
+    6.continue
+  
+  
 
   
 
