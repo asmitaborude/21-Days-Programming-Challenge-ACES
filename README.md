@@ -173,6 +173,29 @@ For expensive computations for deep learning libraries like TensorFlow, followin
     5.break
     
     6.continue
+    
+---
+
+### PYTHON FUNCTION
+
+  #### * DAY 9
+  
+   ###### PYTHON FUNCTION
+  
+    1.Python Function
+    
+    2.Function argument
+    
+    3.Python Recursion
+    
+    4.Anonymous/lambda function
+    
+    5.Global,local and non-local
+    
+    6.Python global keyword
+    
+---
+
   
   
 
