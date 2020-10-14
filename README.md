@@ -51,9 +51,9 @@ For expensive computations for deep learning libraries like TensorFlow, followin
   ###### Python Math Module
     1.Numbers and Numeric Representation
     
-    2.power and logarithmic functions
+    2.Power and logarithmic functions
     
-    3.trigonometric and angular conversion functions
+    3.Trigonometric and angular conversion functions
    
  --- 
   
@@ -99,17 +99,17 @@ For expensive computations for deep learning libraries like TensorFlow, followin
     
     2.Concatenating two tuples
     
-    3.creating nested tuples
+    3.Creating nested tuples
     
-    4.create a tuple with repetition
+    4.Create a tuple with repetition
     
-    5.test slicing
+    5.Test Slicing
     
-    6.printing the length of a tuple
+    6.Printing the length of a tuple
     
-    7.converting a list and a string into a tuple
+    7.Converting a list and a string into a tuple
     
-    8.creating tuples in a loop
+    8.Creating tuples in a loop
 
 
 #### * DAY 6
@@ -196,6 +196,27 @@ For expensive computations for deep learning libraries like TensorFlow, followin
     
 ---
 
+### PYTHON OBJECT ORIENTED PROGRAMMING
+
+  #### * DAY 10
+  
+   ###### PYTHON OBJECT ORIENTED PROGRAMMING
+   
+    1.Creating Class and Object in Python
+    
+    2.Creating Methods in Python
+    
+    3.Use of Inheritance in Python
+    
+    4.Data Encapsulation in Python
+    
+    5.Using Polymorphism in Python
+    
+    6.Defining a class in python
+    
+    7.Creating an object in python
+    
+    8.Constructors in python
   
   
 
