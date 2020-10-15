@@ -219,6 +219,14 @@ For expensive computations for deep learning libraries like TensorFlow, followin
     8.Constructors in python
   
   
-
+  #### * DAY 11
+  
+   ###### INHERITANCE AND MULTIPLE INHERITANCE
+   
+    1.INHERITANCE
+    
+    2.MULTIPLE INHERITANCE
+    
+     
   
 
