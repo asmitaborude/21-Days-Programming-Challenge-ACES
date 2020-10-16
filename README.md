@@ -227,6 +227,14 @@ For expensive computations for deep learning libraries like TensorFlow, followin
     
     2.MULTIPLE INHERITANCE
     
-     
+  #### * DAY 12
+  
+   ###### Python Operator Overloading
+   
+    1.Overloading the '+' operator
+    
+    2.Overloading the comparison operator
+    
+---
   
 
