@@ -259,4 +259,10 @@ For expensive computations for deep learning libraries like TensorFlow, followin
    
     4.Pipeline Generator
    
+  #### * DAY 16
+  
+   ###### Python Closure
    
+    1.Nonlocal variable in nested function
+    
+    2.Defining a closure function
