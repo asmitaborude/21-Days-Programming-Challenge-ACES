@@ -266,3 +266,13 @@ For expensive computations for deep learning libraries like TensorFlow, followin
     1.Nonlocal variable in nested function
     
     2.Defining a closure function
+    
+ #### * DAY 17
+ 
+  ###### Python Decorators
+  
+    1.Python Decorators
+    
+    2.Python Property Decorators
+    
+    3.Using Property class
