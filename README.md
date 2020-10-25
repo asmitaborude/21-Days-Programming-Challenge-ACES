@@ -276,3 +276,25 @@ For expensive computations for deep learning libraries like TensorFlow, followin
     2.Python Property Decorators
     
     3.Using Property class
+    
+  
+    
+#### * DAY 18
+
+  ###### Datetime Module
+  
+#### * DAY 19
+
+  ###### Datetime Module
+
+#### * DAY 20
+
+  ###### example of python program
+  
+    Program to print Fibonacci Sequence
+
+#### * DAY 21
+
+  ###### A Simple Bouncing Ball game in Python
+  
+---
